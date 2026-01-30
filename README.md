@@ -133,7 +133,8 @@ The agent follows a structured, state-driven learning cycle:
 
 The following diagram represents the orchestration logic and conditional routing of the system:
 
-architecture.png
+<img width="565" height="963" alt="architecture" src="https://github.com/user-attachments/assets/66383cc7-b8b4-4719-bad8-4793de037c04" />
+
 
 ---
 
